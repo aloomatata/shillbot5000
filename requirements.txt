@@ -1,1 +1,3 @@
-tweepypython-dotenvrequests
+tweepy
+python-dotenv
+requests
